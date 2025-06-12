@@ -56,9 +56,8 @@ Easy to customize for personal branding
 ## 👨‍💻 Author
 **Laxmikant S**
 
-🌐 [Portfolio (Coming Soon)](https://your-portfolio-link.com)
+🌐 [Portfolio (Coming Soon)]
 
-📫 [Email](mailto:laxmikantdadagi@gmail.com)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/laxmikant-dadagi-b559b332a)  
 
