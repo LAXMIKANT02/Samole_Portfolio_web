@@ -1,4 +1,4 @@
-# 🎨 Personal Portfolio | Single Page | Mini Project
+# 🎨 Sample Portfolio | Single Page | Mini Project
 ## 📌 Overview
 This repository contains a fully responsive single-page portfolio website built using HTML, CSS, Bootstrap, and JavaScript. The project showcases your personal profile, featured projects, and contact information in a clean, modern, and professional layout — ideal for showcasing frontend skills or serving as a base for a personal website.
 
@@ -55,9 +55,6 @@ Easy to customize for personal branding
 
 ## 👨‍💻 Author
 **Laxmikant S**
-
-🌐 [Portfolio (Coming Soon)]
-
 
 🔗 [LinkedIn](https://www.linkedin.com/in/laxmikant-dadagi-b559b332a)  
 
